@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Computer & Software Systems Engineering student who loves a good challenge and writing great code. My passion for software development and eagerness to learn new skills has allowed me to gain experience in the following fields web development (full stack), desktop applications, database design and software support, and micro-controllers.
+
+- 🔭 I’m currently working on enhacing my cloud computing skills and obtaining AWS accreditations.
+- 📫 How to reach me: 
+  - email: gabriel.garate.zea@gmail.com
+  - linkdin: https://www.linkedin.com/in/gabriel-garate-zea/
 <!--
 **GaboGZ/gabogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
