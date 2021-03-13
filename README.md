@@ -5,7 +5,8 @@ I am a Computer & Software Systems Engineering student who loves a good challeng
 - 🔭 I’m currently working on enhacing my cloud computing skills and obtaining AWS accreditations.
 - 📫 How to reach me: 
   - email: gabriel.garate.zea@gmail.com
-  - linkdin: https://www.linkedin.com/in/gabriel-garate-zea/
+  - portfolio website: www.gabogz.com
+  - LinkdIn: https://www.linkedin.com/in/gabriel-garate-zea/
 <!--
 **GaboGZ/gabogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
