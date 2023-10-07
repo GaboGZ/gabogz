@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a Software Engineer and love to build cloud web applications. 
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on enhacing my cloud computing skills to become accreditated on AWS .
+I am a Software Engineer and love to build cloud applications. 
+
+- 🔭 I’m currently working on enhacing my cloud computing skills and get AWS accreditations.
 - 📫 How to reach me: 
   - email: gabriel.garate.zea@gmail.com
   - portfolio website: www.gabogz.com
@@ -10,12 +12,13 @@ I am a Software Engineer and love to build cloud web applications.
 
 <!--**GaboGZ/gabogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working as a Web Developer in a Shopify Development Agency mainly dealing with HTML, JS, CSS and Liquid.
-- We also build custom Wordpress sites and laravel applications. 
-- 🌱 I’m currently learning VueX, Vue JS and AWS services.
-- 👯 I’m looking to collaborate on cloud application projects.
-<!-- - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Current Role: DevOps Engineer in a Software company building products for the mining industry.
+- Current Technologies:
+  - Docker (Containerisation)
+  - Azure DevOps (Pipelines, YAML templates)
+  - AWS Cloud Formation (Infrastructure as Code)
+  - ECS
+  - ECR
+  - Code Artifact
+ 
+- Check out my website hosted on Amplify at www.gabogz.com
